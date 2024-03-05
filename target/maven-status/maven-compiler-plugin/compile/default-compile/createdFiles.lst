@@ -1,0 +1,5 @@
+com\edoardaste\Microservice\clientController\ClientController.class
+com\edoardaste\Microservice\dtos\ClientRecordsDTO.class
+com\edoardaste\Microservice\repositories\ClientRepository.class
+com\edoardaste\Microservice\models\ClientModel.class
+com\edoardaste\Microservice\MicroserviceApplication.class
